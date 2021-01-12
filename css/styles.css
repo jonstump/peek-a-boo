@@ -10,3 +10,21 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+.extra-peeks {
+  margin-top: 20px;
+}
+
+#cat-hidden {
+  display: none;
+}
+
+.click {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.click:hover {
+  text-decoration: underline;
+}
+
